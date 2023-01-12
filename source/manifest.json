@@ -1,7 +1,7 @@
 {
 	"name": "Hide R20 Charactermancer",
 	"version": "0.0.1",
-	"description": "An extension to hide the Charactermancer from your players until it is time to level up, due to a recent change to Roll 20 that has confused players.",
+	"description": "An extension to hide the Charactermancer from your players until it is time to level up",
 	"homepage_url": "https://github.com/breadbored",
 	"manifest_version": 2,
 	"minimum_chrome_version": "100",
