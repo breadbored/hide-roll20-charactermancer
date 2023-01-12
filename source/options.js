@@ -2,12 +2,12 @@
 import 'webext-base-css';
 import './options.css';
 
-import optionsStorage from './options-storage.js';
+// Import optionsStorage from './options-storage.js';
 
-// TODO: Add config
+// Come back later T O D O Add config
 
 async function init() {
-	// TODO
+	// Come back later T O D O
 }
 
 init();
