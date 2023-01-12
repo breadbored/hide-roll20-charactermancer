@@ -1,6 +1,6 @@
 # Privacy Policy for hide-roll20-charactermancer
 
-No data or personal information is collected by browser-extension-template.
+No data or personal information is collected by hide-roll20-charactermancer.
 
 ##### Contact
 
